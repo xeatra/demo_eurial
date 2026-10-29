@@ -1,0 +1,16 @@
+/* Eurial group demo — Sales Partner Dealer WebKit, group theme (Sales Partner identity: #171717 + #D72727) */
+:root {
+  --bg: #F6F6F4; --surface: #FFFFFF; --surface-2: #EFEFEC; --line: #DEDED9;
+  --text: #1E1E1E; --mute: #66665F; --ink: #171717;
+  --brand: #171717; --brand-2: #262626; --on-brand: #FFFFFF;
+  --accent: #D72727; --accent-ink: #FFFFFF; --accent-soft: #FBE9E9;
+  --price: #171717; --ok: #1F7A45; --warn: #B26A00; --err: #C62828;
+  --hero-overlay: linear-gradient(90deg, rgba(10,10,10,.86) 0%, rgba(10,10,10,.62) 42%, rgba(10,10,10,.05) 100%);
+  --f-head: 'Inter', system-ui, sans-serif; --f-body: 'Inter', system-ui, sans-serif;
+  --head-weight: 800; --head-case: none; --head-track: -.02em;
+  --r: 8px; --r-lg: 14px; --r-btn: 6px;
+  --shadow: 0 1px 2px rgba(0,0,0,.05), 0 12px 30px -14px rgba(0,0,0,.25);
+  --plate: #FFFFFF; --hero-text: #FFFFFF; --top-bg: #0E0E0E; --top-text: #C9C9C4; --foot-bg: #121212; --foot-text: #C9C9C4;
+  --peugeot: #0A0A0A; --citroen: #DA291C; --ds: #8C7B6B; --opel: #F7D800; --omoda: #3C4A3E;
+  color-scheme: light;
+}
